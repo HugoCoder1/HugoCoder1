@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Mediactive as a fullstack developer<br>- 🌱 I’m currently working with React and Vue.js<br>- 💼 I'm open to freelancing projects.<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
+🔭 I’m currently working as a fullstack developer<br>- 🌱 I’m currently working with React and Vue.js<br>- 💼 I'm open to freelancing projects.<br>- ⚡ Fun fact: I like to share my knowledge and learn something new every day.
 
 
 # 💻 Tech Stack:
