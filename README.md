@@ -1,5 +1,5 @@
 # 💫 About Me:
-Développeur d'application web et mobile<br>Je travaille avec React , Vue.js , Next.js , Laravel , ReactNative .<br>J'aime apprendre et approfondir de nouvelles techno .
+Développeur d'application web et mobile<br>Je travaille avec React , Vue.js , Next.js , Laravel , ReactNative .<br>J'aime apprendre, créer et relever de nouveaux défis .
 
 
 ## 🌐 Socials:
